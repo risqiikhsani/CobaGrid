@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CobaGrid</string>
+    <string name="cat1">Kucing imut 1</string>
+    <string name="cat2">Kucing imut 2</string>
+    <string name="cat3">Kucing imut 3</string>
+    <string name="cat4">Kucing imut 4</string>
+    <string name="cat5">Kucing imut 5</string>
+    <string name="cat6">Kucing imut 6</string>
+    <string name="cat7">Kucing imut 7</string>
+    <string name="cat8">Kucing imut 8</string>
+    <string name="cat9">Kucing imut 9</string>
+    <string name="cat10">Kucing imut 10</string>
+</resources>
